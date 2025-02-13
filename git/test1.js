@@ -1,4 +1,4 @@
-console.log('测试fetch');
+console.log('测试fetch111');
 
 function test (fn) { 
   console.log('111111');
