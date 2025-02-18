@@ -4,3 +4,4 @@ function test (fn) {
   console.log('1111222');
   return fn(...arg)
 }
+console.log('44444')
