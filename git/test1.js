@@ -5,4 +5,3 @@ function test (fn) {
 }
 console.log('这又是一个测试啊');
 console.log('111111');
-console.log('333333')
